@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: APIManagement
+  name: example
   description: A service for testing backstage component
 spec:
   type: service
-  owner: api management
+  owner: apimsd
   lifecycle: dev
